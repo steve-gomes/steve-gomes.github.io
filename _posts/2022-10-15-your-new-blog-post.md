@@ -37,11 +37,14 @@ The objective of any business is to make money, even if movies are (supposed to 
 
 ### Visualizations 
 ### 1 Genre 
-
+![genre](/images/post1_genres.png)
 ### 2 Scheduling
-
+![schedule](/images/post1_season.png)
 ### Runtime
-
+![runtime](/images/post1_runtime.png)
 ### Budget
+![budget_roi](/images/post1_budget_roi.png)
+![buget_profit](/images/post1_budget_profit.png)
 
-![Alt Text](https://media.giphy.com/media/bOwOAey4MDO3ivBkgK/giphy.gif?cid=ecf05e47ee85jfyqagqyk139l7l7vphstgw0mrc2ym3amhdz&rid=giphy.gif&ct=g)
+### Thanks and so long folks
+![byebye](https://media.giphy.com/media/bOwOAey4MDO3ivBkgK/giphy.gif?cid=ecf05e47ee85jfyqagqyk139l7l7vphstgw0mrc2ym3amhdz&rid=giphy.gif&ct=g)
